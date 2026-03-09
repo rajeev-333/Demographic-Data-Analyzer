@@ -22,13 +22,13 @@ from the dataset covering race, age, education, income, work hours, and country.
 ```bash
 python main.py
 ```
-text 
+## Project Structure
 ```
-Project Structure
+
 ├── demographic_data_analyzer.py  # Main solution file
 ├── adult.data.csv                # Dataset (1994 Census)
 ├── main.py                       # Run and test the solution
-├── test_module.py                # Unit tests (do not modify)
+├── test_module.py                # Unit tests 
 └── README.md
 ```
 
